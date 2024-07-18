@@ -33,3 +33,4 @@ output "dev-vpc-id" {
 output "dev-subnet-id" {
     value = aws_subnet.dev-subnet-1.id
 }
+#$./config.sh -url https://github.com/LS-CO --token A6R2JMK2ADJNXG2MECHVU4LGR75CO
