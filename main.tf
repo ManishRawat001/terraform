@@ -35,3 +35,5 @@ output "dev-subnet-id" {
 }
 #$./config.sh -url https://github.com/LS-CO --token A6R2JMK2ADJNXG2MECHVU4LGR75CO
 #git clone https://github.com/LS-CO/leviLMA-levis.rn.git
+#marawat_levi
+#k3MlUbwU3M41omFctj1MNxuX8rglZc322lgD
