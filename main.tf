@@ -33,10 +33,4 @@ output "dev-vpc-id" {
 output "dev-subnet-id" {
     value = aws_subnet.dev-subnet-1.id
 }
-/*
-mkdir actions-runner && cd actions-runner
-curl -o actions-runner-linux-arm64-2.317.0.tar.gz -L https://github.com/actions/runner/releases/download/v2.317.0/actions-runner-linux-arm64-2.317.0.tar.gz
-tar xzf ./actions-runner-linux-arm64-2.317.0.tar.gz
-./config.sh --url https://github.com/LS-CO/leviLMA-levis.rn --token BHROUEH3VKSBHNA2METXABTGT3AAY
-./run.sh
-*/
+
